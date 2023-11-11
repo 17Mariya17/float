@@ -76,3 +76,7 @@
   .marging-right {
     margin-right: 15px;
   } 
+
+  .reverse {
+    float: right;
+  } 
